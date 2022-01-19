@@ -1,9 +1,14 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DilankaNimsara" alt="DilankaNimsara" /> </p>
 
 ### Hi there, I'm Dilanka Nimsara👋
 
 - 💼 Backend Java developer
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning everyting related to JAVA
+- ❤️ I love programming
+
+![0_irw4k1weXJkFYPbO](https://user-images.githubusercontent.com/39086927/150156114-93d3c7ba-088c-4b8c-bca5-74afc11b182b.gif)
+
 
 <br />
 🔗 <b>Connect with me</b>
@@ -13,11 +18,11 @@
 [<img align="left" alt="dilanka | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />](https://www.linkedin.com/in/dilanka-nimsara)
 [<img align="left" alt="dilanka | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />](https://www.instagram.com/dilankanimsara/?fbclid=IwAR0k4R7cMs0amFO_TZVpK2jLOvw0Qw8ERZhHVlA6L2rtLSqfIQdce6zGvys)
 [<img align="left" alt="dilanka | FaceBook" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />](https://www.facebook.com/dilanka.nimsara.101)
- 
 </p>
-
-<br/>
-<br/>
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilankaNimsara&theme=radical&layout=compact" height="300" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/?username=DilankaNimsara&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="300" width="420"/>
+</div>
 <p align="left">
   🔗 <b>Languages and tools (currenly using)</b>
  </p>
